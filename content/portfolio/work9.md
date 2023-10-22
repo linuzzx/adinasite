@@ -7,4 +7,4 @@ title = "We are one 80x60"
 Inspiriert von dem Mut und dem Kampfgeist eines großen Freiheitskämpfers unserer Zeit - Wolodymyr Selenskyj
 
 (Versteigert zugunsten der Ukraine-Nothilfe der Aktion Deutschland Hilft e.V.)
-![](img/bilder/9.jpg)
+![]({{< baseurl >}}img/bilder/9.jpg)

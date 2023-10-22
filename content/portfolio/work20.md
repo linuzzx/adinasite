@@ -7,4 +7,4 @@ title = "Fade away 100x80"
 
 R.i.p. Sinead O‘Connor
 
-![](img/bilder/20.jpg)
+![]({{< baseurl >}}img/bilder/20.jpg)

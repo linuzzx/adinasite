@@ -7,4 +7,4 @@ title = "Elizabeth 80x60"
 
 (Auftragsarbeit)
 
-![](img/bilder/14.jpg)
+![]({{< baseurl >}}img/bilder/14.jpg)
