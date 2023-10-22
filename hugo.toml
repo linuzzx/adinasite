@@ -10,8 +10,8 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
-  description = "Describe your website"
+  style = "violet"
+  description = "Adina Geisler's Portfolio"
   copyright = "&copy;2023 Adina Geisler"
   sidebarAbout = [
     "„Ich verstehe nicht viel von Kunst. Ich male einfach leidenschaftlich gern!“"
