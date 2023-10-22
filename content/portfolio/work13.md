@@ -7,4 +7,4 @@ title = "Klang der Stille 120x90"
 Engel der Auferstehung
 Statue von Giulio Monteverde
 
-![](/img/bilder/13.jpg)
+![](img/bilder/13.jpg)

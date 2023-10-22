@@ -9,4 +9,4 @@ Es gibt keinen Weg zum Glück. Glücklich-sein ist der Weg!
 
 Für meine liebe Freundin Bine, die dieses Motto lebt wie keine Zweite :)
 
-![](/img/bilder/15.jpg)
+![](img/bilder/15.jpg)

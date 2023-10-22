@@ -6,4 +6,4 @@ title = "Warrior 100x70"
 +++
 Achilles, Statue von Innocenzo Fraccaroli
 
-![](/img/bilder/5.jpg)
+![](img/bilder/5.jpg)

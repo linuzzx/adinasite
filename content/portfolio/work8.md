@@ -6,4 +6,4 @@ title = "Zitti e buoni 100x70"
 +++
 (Auftragsarbeit)
 
-![](/img/bilder/8.jpg)
+![](img/bilder/8.jpg)
