@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://linusx.is-a.dev/adinasite/"
 title = "Adinas EigenArt"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "de-de"
